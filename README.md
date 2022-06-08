@@ -15,3 +15,7 @@ Conatins the command to update the stack. The create.sh file can only be used on
 
 #### network-parameters.json
 JSON file that contains the parameter keys and values for the resources being created.
+
+
+### URL to site
+https://airatudagrambucket.s3.amazonaws.com/index.html
