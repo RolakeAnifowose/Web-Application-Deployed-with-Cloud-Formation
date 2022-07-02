@@ -18,4 +18,4 @@ JSON file that contains the parameter keys and values for the resources being cr
 
 
 ### URL to site
-https://airatudagrambucket.s3.amazonaws.com/index.html
+http://udagram-1039070064.us-east-1.elb.amazonaws.com/
